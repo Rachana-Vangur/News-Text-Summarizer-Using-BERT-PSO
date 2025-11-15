@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # News Text Summarizer using BERT and PSO algorithms
 
 This repository now includes a simple Streamlit app to search BBC articles by keyword using the `bbc-news` Python package. And the results have a summarized version of the text. For summarization of the article, BERT and PSO are used.
