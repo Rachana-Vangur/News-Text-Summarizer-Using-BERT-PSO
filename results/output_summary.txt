@@ -1,0 +1,11 @@
+=== BERT + PSO Text Summarizer ===
+
+Original Text:
+Baia is a Roman town. It is more than 2,000 years old. It is a popular place for rich people and politicians in ancient Rome. Fish swim through the town today. 15,000 divers and tourists visit it every year. How is it possible? Hundreds of years ago, the town moves towards the sea. A volcano in the Mediterranean Sea moves it. Then, the whole town is under water. Divers find it again in 1969. Today, people can swim through the town. They see beautiful statues and mosaics. Some things are not real. The animals and plants in the sea can break the statues. People take them out. They put copies of the same things back in the sea.
+
+=== Generated Summary ===
+Fish swim through the town today. 15,000 divers and tourists visit it every year. How is it possible? Hundreds of years ago, the town moves towards the sea. Then, the whole town is under water. Divers find it again in 1969. Today, people can swim through the town. They see beautiful statues and mosaics. Some things are not real. The animals and plants in the sea can break the statues.
+
+Feature Weights: [0.02459352 0.97101793 0.00438855]
+
+ROUGE Scores: {'rouge1': 0.4228, 'rouge2': 0.1983, 'rougeL': 0.2927}

@@ -1,0 +1,13 @@
+streamlit>=1.37
+bbc-news
+gnews>=0.3.6
+feedparser>=6.0.11
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+sentence-transformers>=2.2.2
+scikit-learn>=1.2.2
+nltk>=3.8.1
+torch>=2.0.0
+
+
